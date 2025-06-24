@@ -1,0 +1,13 @@
+01_Titanic/
+02_House-Price/
+03_Heart-Disase/
+04_Customer-Segmentation/
+05_Credit-Card-Clean/
+06_Movie-Recommendation/
+07_Wine-Quality/
+08_MNIST_Clean/
+09_Bank-Customer/
+10_Netflix_Streamlit/
+*.DS_Store
+__pycache__/
+*.ipynb_checkpoints/
